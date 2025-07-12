@@ -1,2 +1,5 @@
 # AI-user-Intimacy-in-Digital-Health
-Online repository for the review excepts used in this research 
+
+This repository includes the tables that correspond to the sample review excerpts for each main theme.
+
+
